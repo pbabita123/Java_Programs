@@ -12,6 +12,7 @@ public class StringAnagram {
         }
         else {
             System.out.println("String is not anagram");
+            System.out.println("Hell");
         }
 
     }
